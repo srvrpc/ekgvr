@@ -452,9 +452,9 @@ article.blog-post-content h6 {
     text-align: left;
 }
 
-article.blog-post-content p {
+article.blog-post-content p:not(.post-date) {
     margin-bottom: 1.25em;
-       text-align: left;
+    text-align: left;
     text-indent: 2em;
 }
 
