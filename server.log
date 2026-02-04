@@ -1,6 +1,0 @@
-127.0.0.1 - - [03/Feb/2026 05:37:21] "GET /posts/smart1972.html HTTP/1.1" 200 -
-127.0.0.1 - - [03/Feb/2026 05:37:21] "GET /styles.css HTTP/1.1" 200 -
-127.0.0.1 - - [03/Feb/2026 05:38:11] "GET /posts/smart1972.html HTTP/1.1" 200 -
-127.0.0.1 - - [03/Feb/2026 05:38:11] "GET /styles.css HTTP/1.1" 200 -
-127.0.0.1 - - [03/Feb/2026 05:39:59] "GET /posts/smart1972.html HTTP/1.1" 200 -
-127.0.0.1 - - [03/Feb/2026 05:39:59] "GET /styles.css HTTP/1.1" 200 -
